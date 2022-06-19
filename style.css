@@ -1,3 +1,24 @@
 body{
     background-color:rgb(247, 180, 92);
 }
+#divCalculator{
+    border-color: black;
+    border-style:double;
+    width: 29vw;
+    height: ;
+}
+.numbersButton{
+    width: 7vw;
+    height: 7vh;
+}
+.operatorBtnBtn-info{
+    width: 7vw;
+    height: 7vh;
+}
+#inputUser{
+    width: 28vw;
+    height: 10vh;
+}
+#result{
+    background-color: rgb(111, 167, 252);
+}
